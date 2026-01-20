@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Vaani",
+  "description": "A feature-rich, modern messaging and calling app with a light purple theme, featuring real-time chat, WebRTC video/voice calls, and a unique emoji-based profile system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
